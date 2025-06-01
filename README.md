@@ -28,7 +28,7 @@ This model is ideal for educational, research, and early prototyping application
 
 ## 🛠️ Requirements
 
-- MATLAB / Simulink (R2020b or later recommended)
+- MATLAB / Simulink (R2021a or later recommended)
 - Simulink Coder (for SIL)
 
 ## 📄 License
